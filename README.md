@@ -1,4 +1,4 @@
-Application reads QR code, even if it's not centered.
+Application reads QR code, aligning image if it's not centered.
 
 Install dependencies:
 ```
