@@ -1,3 +1,5 @@
+Application reads QR code, even if it's not centered.
+
 Install dependencies:
 ```
 sudo apt-get install libzbar-dev
